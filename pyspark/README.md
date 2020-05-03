@@ -6,3 +6,5 @@ Once you complete this notebook, you should be able to write pyspark programs in
 
 - Give a proper understanding about the different <i>PySpark functions</i> available.
 - A short introduction to Google Colab, as that is the platform on which this notebook is written on.
+
+> I have made an html version of the same, which you can easily access [here](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/).
